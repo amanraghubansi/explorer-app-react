@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+  background: #E5E5E5;
+}
+
+p,ul,li{
+  padding: 0px;
+  margin : 0px;
+}
+
+.content{
+  padding: 15px 10px;
+}
