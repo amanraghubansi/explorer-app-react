@@ -6,8 +6,9 @@
 
 
 #Instructions to run Task 2 :
+0. Clone repo using command from github.
 1. Install node from https://nodejs.org/en/ as per machine.
-2. open command terminal and move to code folder.
+2. Open command terminal and move to explorer-app-react folder.
 3. Run command : npm install.
 4. Run command : npm run start to start the project.
 5. For Dev mode  :  
