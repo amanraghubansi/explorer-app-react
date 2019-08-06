@@ -6,6 +6,7 @@
 
 
 #Instructions to run Task 2 :
+
 0. Clone repo using command from github.
 1. Install node from https://nodejs.org/en/ as per machine.
 2. Open command terminal and move to explorer-app-react folder.
