@@ -1,3 +1,5 @@
+// Ability to cancel api requests and continent work.
+
 #Instructions to run task 1 :
 1. Code is present in parser.js
 2. Open chrome browser and open JavaScript(js) console.
